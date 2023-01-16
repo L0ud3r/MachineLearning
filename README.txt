@@ -8,3 +8,5 @@ Unidade Curricular: Inteligência Artificial
 
 Dataset: Iris Species
 Projeto: classificação, clustering e regras de associação da dataset lida recorrendo a algoritmos de Machine Learning.
+
+Nota: Adicionar dataset (Iris.csv) ao Local Workflow
